@@ -1,0 +1,37 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "7/18/1985 3:05:43 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName18",
+        "family": "lastName18"
+      },
+      "dateOfBirth": "7/18/1985 3:05:43 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FATIGUE (FINDING)",
+          "translationName": "OTHER MALAISE AND FATIGUE",
+          "enteredDate": "11/9/2004 8:23:11 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANEMIA (DISORDER)",
+          "translationName": "ANEMIA UNSPECIFIED",
+          "enteredDate": "11/1/2013 8:02:34 PM"
+        }
+      ]
+    }
+  ]
+}

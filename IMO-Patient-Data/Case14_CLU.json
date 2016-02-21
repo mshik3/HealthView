@@ -1,0 +1,59 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "7/27/1982 5:50:53 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName4",
+        "family": "lastName4"
+      },
+      "dateOfBirth": "7/27/1982 5:50:53 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "MASS OF VULVA (FINDING)",
+          "translationName": "OTHER SPECIFIED SYMPTOMS ASSOCIATED WITH FEMALE GENITAL ORGANS",
+          "enteredDate": "9/7/2002 10:53:11 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPLASIA OF CERVIX (DISORDER)",
+          "translationName": "DYSPLASIA OF CERVIX, UNSPECIFIED",
+          "enteredDate": "5/18/2014 5:20:16 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PRIMARY SYPHILIS (DISORDER)",
+          "translationName": "OTHER PRIMARY SYPHILIS",
+          "enteredDate": "6/25/1993 5:38:14 PM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+          "enteredDate": "6/25/1993 5:38:14 PM"
+        }
+      ]
+    }
+  ]
+}

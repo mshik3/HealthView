@@ -1,0 +1,160 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/10/2004 3:27:18 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName36",
+        "family": "lastName36"
+      },
+      "dateOfBirth": "11/10/2004 3:27:18 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC LOW BACK PAIN (FINDING)",
+          "translationName": "LUMBAGO",
+          "enteredDate": "4/23/2007 7:25:54 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SPONDYLOPTOSIS (DISORDER)",
+          "translationName": "ACQUIRED SPONDYLOLISTHESIS",
+          "enteredDate": "4/23/2007 7:25:54 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "LEFT SIDED CEREBRAL HEMISPHERE CEREBROVASCULAR ACCIDENT (DISORDER)",
+          "translationName": "CEREBRAL ARTERY OCCLUSION UNSPECIFIED WITH CEREBRAL INFARCTION",
+          "enteredDate": "4/23/2007 7:25:54 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SUBACUTE DISEASE (DISORDER)",
+          "translationName": "CEREBRAL ARTERY OCCLUSION UNSPECIFIED WITH CEREBRAL INFARCTION",
+          "enteredDate": "4/23/2007 7:25:54 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC PAIN SYNDROME (DISORDER)",
+          "translationName": "CHRONIC PAIN SYNDROME",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DORSALGIA (FINDING)",
+          "translationName": "LUMBAGO",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DIABETES MELLITUS (DISORDER)",
+          "translationName": "DIABETES MELLITUS WITHOUT COMPLICATION TYPE II OR UNSPECIFIED TYPE NOT STATED AS UNCONTROLLED",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAROXYSMAL ATRIAL FIBRILLATION (DISORDER)",
+          "translationName": "ATRIAL FIBRILLATION",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC OBSTRUCTIVE LUNG DISEASE (DISORDER)",
+          "translationName": "CHRONIC AIRWAY OBSTRUCTION NOT ELSEWHERE CLASSIFIED",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "8/16/2005 10:58:32 AM"
+        }
+      ]
+    },
+    {
+      "title": "head eyes ears nose throat",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA ON EXERTION (FINDING)",
+          "translationName": "RESPIRATORY ABNORMALITY OTHER",
+          "enteredDate": "9/29/2008 2:44:53 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "9/29/2008 2:44:53 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "9/29/2008 2:44:53 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTRIC ULCER (DISORDER)",
+          "translationName": "GASTRIC ULCER UNSPECIFIED AS ACUTE OR CHRONIC WITHOUT HEMORRHAGE OR PERFORATION WITHOUT OBSTRUCTION",
+          "enteredDate": "9/29/2008 2:44:53 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "9/29/2008 2:44:53 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "MONOPARESIS (DISORDER)",
+          "translationName": "UNSPECIFIED MONOPLEGIA",
+          "enteredDate": "11/9/2009 5:02:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SPINAL STENOSIS OF LUMBAR REGION (DISORDER)",
+          "translationName": "SPINAL STENOSIS OF THORACIC REGION",
+          "enteredDate": "11/9/2009 5:02:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERTENSIVE DISORDER, SYSTEMIC ARTERIAL (DISORDER)",
+          "translationName": "BENIGN ESSENTIAL HYPERTENSION",
+          "enteredDate": "11/9/2009 5:02:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "11/9/2009 5:02:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "OBESITY (DISORDER)",
+          "translationName": "OBESITY UNSPECIFIED",
+          "enteredDate": "11/9/2009 5:02:22 PM"
+        }
+      ]
+    }
+  ]
+}

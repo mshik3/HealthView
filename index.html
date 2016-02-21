@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Registration Form</title>
+  <link rel="stylesheet" href="styles.css">
+	<link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src="https://cdn.firebase.com/js/client/2.4.1/firebase.js"></script>
+	<script language="JavaScript">
+	var myFirebaseRef = new Firebase("https://bdv.firebaseio.com/");
+	var counter = 1;
+	function addSymptom(divName){
+		var limit = 10;
+		var newdiv = document.createElement('div');
+		counter += 1;
+		newdiv.innerHTML = "<br>Symptom "+counter+"<br><input type='text' class = 'register-input' name='symptoms"+counter+"'><input type='text' class='register-input' name='ICD10CM_CODE"+counter+"' placeholder='ICD10CM Code'> <input type='text' class='register-input' name='IMO_LEXICAL_CODE"+counter+"' placeholder='IMO Lexical Code'> <input type='text' class='register-input' name='translationName"+counter+"' placeholder='Translation Name'> Reason for visit: <input class='register-input' name='visit"+counter+"'></input> Time of appointment: <input type='date' name='app_date"+counter+"' class='register-input'> <input type='time' name='app_time"+counter+"' class='register-input'><br><br><hr>";
+		document.getElementById(divName).appendChild(newdiv);
+	}
+	$(document).ready(function(){
+		$("#submit").click(function(){
+			var patientsRef = myFirebaseRef.child("patients");
+			var firstname= $('input[name="firstname"]').val();
+			var lastname= $('input[name="lastname"]').val();
+			var gender = $('input[name="gender"]').val();
+			var ICD10CM_CODE = $('input[name="ICD10CM_CODE"]').val();
+			var IMO_LEXICAL_CODE = $('input[name="IMO_LEXICAL_CODE"]').val();
+			var translationName = $('input[name="translationName"]').val();
+			var birthdate= $('input[name="dob"]').val();
+			var app_date= $('input[name="app_date"]').val();
+			var app_time= $('input[name="app_time"]').val();
+			var reason= $('input[name="visit"]').val();
+			var symptoms= $('input[name="symptoms"]').val();
+			var pushRef = patientsRef.push({
+					clinicalDocument: {
+						effectiveTime: app_date,
+						patientInformation: {
+							dateOfBirth:birthdate,
+							gender: gender,
+							name: {
+								family:lastname,
+								firstname: firstname
+							}
+						}
+					},
+					sections: {
+						pushID:
+							{
+							}
+						}
+			});
+			var pushID = pushRef.key();
+			var pushIDref = patientsRef.child(pushID);
+			var sectionRef = pushIDref.child("sections");
+			sectionRef.push({
+				ICD10CM_CODE: ICD10CM_CODE,
+				IMO_LEXICAL_CODE: IMO_LEXICAL_CODE,
+				enteredDate: app_date,
+				enteredName: reason,
+				translationName: translationName
+			});
+			if(($('input[name="symptoms2"]').val())!==''){
+				var symptoms2 = $('input[name="symptoms2"]').val();
+				var ICD10CM_CODE2 = $('input[name="ICD10CM_CODE2"]').val();
+				var IMO_LEXICAL_CODE2 = $('input[name="IMO_LEXICAL_CODE2"]').val();
+				var enteredDate2 = $('input[name="app_date2"]').val();
+				var enteredTime2 = $('input[name="app_time2"]').val();
+				var reason2 = $('input[name="visit2"]').val();
+				var translationName2 = $('input[name="translationName2"]').val();
+			}
+			else if(($('input[name="symptoms3"]').val())!==''){
+				var symptoms3 = $('input[name="symptoms3"]').val();
+				var ICD10CM_CODE3 = $('input[name="ICD10CM_CODE3"]').val();
+				var IMO_LEXICAL_CODE3 = $('input[name="IMO_LEXICAL_CODE3"]').val();
+				var enteredDate3 = $('input[name="app_date3"]').val();
+				var enteredTime3 = $('input[name="app_time3"]').val();
+				var reason3 = $('input[name="visit3"]').val();
+				var translationName3 = $('input[name="translationName3"]').val();
+			}
+			else if(($('input[name="symptoms4"]').val())!==''){
+				var symptoms4 = $('input[name="symptoms4"]').val();
+				var ICD10CM_CODE4 = $('input[name="ICD10CM_CODE4"]').val();
+				var IMO_LEXICAL_CODE4 = $('input[name="IMO_LEXICAL_CODE4"]').val();
+				var enteredDate4 = $('input[name="app_date4"]').val();
+				var enteredTime4 = $('input[name="app_time4"]').val();
+				var reason4 = $('input[name="visit4"]').val();
+				var translationName4 = $('input[name="translationName4"]').val();
+			}
+			else if(($('input[name="symptoms5"]').val())!==''){
+				var symptoms5 = $('input[name="symptoms5"]').val();
+				var ICD10CM_CODE5 = $('input[name="ICD10CM_CODE5"]').val();
+				var IMO_LEXICAL_CODE5 = $('input[name="IMO_LEXICAL_CODE5"]').val();
+				var enteredDate5 = $('input[name="app_date5"]').val();
+				var enteredTime5 = $('input[name="app_time5"]').val();
+				var reason5 = $('input[name="visit5"]').val();
+				var translationName5 = $('input[name="translationName5"]').val();
+			}
+
+			if(($('input[name="symptoms2"]').val())!==''){
+				sectionRef.push({
+					ICD10CM_CODE: ICD10CM_CODE2,
+					IMO_LEXICAL_CODE: IMO_LEXICAL_CODE2,
+					enteredDate: app_date2,
+					enteredName: reason2,
+					translationName: translationName2
+				});
+			}
+			else if(($('input[name="symptoms3"]').val())!==''){
+				sectionRef.push({
+					ICD10CM_CODE: ICD10CM_CODE3,
+					IMO_LEXICAL_CODE: IMO_LEXICAL_CODE3,
+					enteredDate: app_date3,
+					enteredName: reason3,
+					translationName: translationName3
+				});
+			}
+			else if(($('input[name="symptoms4"]').val())!==''){
+				sectionRef.push({
+					ICD10CM_CODE: ICD10CM_CODE4,
+					IMO_LEXICAL_CODE: IMO_LEXICAL_CODE4,
+					enteredDate: app_date4,
+					enteredName: reason4,
+					translationName: translationName4
+				});
+			}
+			else if(($('input[name="symptoms5"]').val())!==''){
+				sectionRef.push({
+					ICD10CM_CODE: ICD10CM_CODE5,
+					IMO_LEXICAL_CODE: IMO_LEXICAL_CODE5,
+					enteredDate: app_date5,
+					enteredName: reason5,
+					translationName: translationName5
+				});
+			}
+		});
+	});
+	</script>
+  <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+  <h1 class="register-title">Patient Information</h1>
+  <form class="register" method="POST" action="">
+    <input type="text" class="register-input" name="firstname" placeholder="First Name">
+    <input type="text" class="register-input" name="lastname" placeholder="Last Name">
+
+    <div class="register-switch">
+			<input type="radio" name="gender" value="male" id="sex_m" class="register-switch-input" checked>
+      <label for="sex_m" class="register-switch-label">Male</label>
+      <input type="radio" name="gender" value="female" id="sex_f" class="register-switch-input">
+      <label for="sex_f" class="register-switch-label">Female</label>
+    </div>
+
+
+		<br>
+		Date of birth: <input type="date" name="dob" class="register-input"><br>
+		<br>
+		<hr>
+		<br>
+		<br>
+		Symptom<input class="register-input" name="symptoms" ></input>
+		<input type="text" class="register-input" name="ICD10CM_CODE" placeholder="ICD10CM Code">
+		<input type="text" class="register-input" name="IMO_LEXICAL_CODE" placeholder="IMO Lexical Code">
+		<input type="text" class="register-input" name="translationName" placeholder="Translation Name">
+		<br>
+		Reason for visit: <input class="register-input" name="visit"></input><br>
+		Time of appointment: <input type="date" name="app_date" class="register-input"> <input type="time" name="app_time" class="register-input"><br>
+		<hr>
+		<div id = "dynamicInput"></div>
+		<input type="button" value="Add another symptom" class = "symptom-button" onClick="addSymptom('dynamicInput');">
+    <input type="submit" value="Submit" class="register-button" id="submit">
+
+
+
+  </form>
+</body>
+</html>

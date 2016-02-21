@@ -1,0 +1,113 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "7/3/1957 10:33:25 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName60",
+        "family": "lastName60"
+      },
+      "dateOfBirth": "7/3/1957 10:33:25 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHEST PAIN ON EXERTION (FINDING)",
+          "translationName": "UNSPECIFIED CHEST PAIN",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "NAUSEA (FINDING)",
+          "translationName": "NAUSEA WITH VOMITING",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAIN IN THROAT (FINDING)",
+          "translationName": "ACUTE PHARYNGITIS",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SWALLOWING PAINFUL (FINDING)",
+          "translationName": "DYSPHAGIA, UNSPECIFIED",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PERICARDITIS (DISORDER)",
+          "translationName": "UNSPECIFIED DISEASE OF PERICARDIUM",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "LEFT ATRIOVENTRICULAR VALVE PROLAPSE (DISORDER)",
+          "translationName": "MITRAL VALVE DISORDERS",
+          "enteredDate": "2/16/1976 3:32:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "KIDNEY STONE (DISORDER)",
+          "translationName": "CALCULUS OF KIDNEY",
+          "enteredDate": "10/23/1996 12:38:09 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DISORDER OF URINARY BLADDER (DISORDER)",
+          "translationName": "UNSPECIFIED DISORDER OF BLADDER",
+          "enteredDate": "10/23/1996 12:38:09 PM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PAROXYSMAL COUGH (FINDING)",
+          "translationName": "COUGH",
+          "enteredDate": "10/14/1991 5:47:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "10/14/1991 5:47:22 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PERICARDITIS (DISORDER)",
+          "translationName": "UNSPECIFIED DISEASE OF PERICARDIUM",
+          "enteredDate": "8/8/1993 9:29:58 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "UPPER RESPIRATORY INFECTION (DISORDER)",
+          "translationName": "ACUTE UPPER RESPIRATORY INFECTIONS OF UNSPECIFIED SITE",
+          "enteredDate": "8/8/1993 9:29:58 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "LEFT ATRIOVENTRICULAR VALVE PROLAPSE (DISORDER)",
+          "translationName": "MITRAL VALVE DISORDERS",
+          "enteredDate": "8/8/1993 9:29:58 PM"
+        }
+      ]
+    }
+  ]
+}

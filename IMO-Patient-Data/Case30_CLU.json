@@ -1,0 +1,82 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "6/16/1994 9:57:48 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName22",
+        "family": "lastName22"
+      },
+      "dateOfBirth": "6/16/1994 9:57:48 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ABDOMINAL DISTENSION (FINDING)",
+          "translationName": "FLATULENCE ERUCTATION AND GAS PAIN",
+          "enteredDate": "2/15/2010 9:35:31 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ABDOMINAL BLOATING (FINDING)",
+          "translationName": "FLATULENCE ERUCTATION AND GAS PAIN",
+          "enteredDate": "2/15/2010 9:35:31 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ABDOMINAL DISCOMFORT (FINDING)",
+          "translationName": "ABDOMINAL PAIN UNSPECIFIED SITE",
+          "enteredDate": "2/15/2010 9:35:31 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FATIGUE (FINDING)",
+          "translationName": "OTHER MALAISE AND FATIGUE",
+          "enteredDate": "2/15/2010 9:35:31 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "INTRADUCTAL CARCINOMA IN SITU OF BREAST (DISORDER)",
+          "translationName": "CARCINOMA IN SITU OF BREAST",
+          "enteredDate": "11/7/1996 9:52:13 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "OSTEOPOROSIS (DISORDER)",
+          "translationName": "OSTEOPOROSIS UNSPECIFIED",
+          "enteredDate": "11/7/1996 9:52:13 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "MASS OF OVARY (FINDING)",
+          "translationName": "OTHER NONINFLAMMATORY DISORDERS OF OVARY FALLOPIAN TUBE AND BROAD LIGAMENT",
+          "enteredDate": "11/22/2000 12:35:13 PM"
+        }
+      ]
+    }
+  ]
+}

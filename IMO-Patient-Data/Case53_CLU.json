@@ -1,0 +1,112 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "6/18/1981 5:50:11 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName47",
+        "family": "lastName47"
+      },
+      "dateOfBirth": "6/18/1981 5:50:11 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSURIA (FINDING)",
+          "translationName": "DYSURIA",
+          "enteredDate": "10/28/2001 9:20:17 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "LEFT FLANK PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN OTHER SPECIFIED SITE",
+          "enteredDate": "10/28/2001 9:20:17 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "NAUSEA (FINDING)",
+          "translationName": "NAUSEA WITH VOMITING",
+          "enteredDate": "4/24/1996 8:03:34 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CALCULUS IN RENAL PELVIS (DISORDER)",
+          "translationName": "CALCULUS OF KIDNEY",
+          "enteredDate": "5/26/2008 9:10:58 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "INTERVERTEBRAL DISC DISORDER (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED DISC DISORDER OF LUMBAR REGION",
+          "enteredDate": "5/26/2008 9:10:58 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "INFECTIVE VAGINITIS (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "5/26/2008 9:10:58 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "5/17/1993 3:59:15 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "5/17/1993 3:59:15 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "5/17/1993 3:59:15 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "URINARY TRACT INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "URINARY TRACT INFECTION SITE NOT SPECIFIED",
+          "enteredDate": "8/3/2003 11:36:19 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYSTEMIC INFLAMMATORY RESPONSE SYNDROME (DISORDER)",
+          "translationName": "SYSTEMIC INFLAMMATORY RESPONSE SYNDROME UNSPECIFIED",
+          "enteredDate": "8/3/2003 11:36:19 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERTENSIVE RENAL DISEASE (DISORDER)",
+          "translationName": "UNSPECIFIED ESSENTIAL HYPERTENSION",
+          "enteredDate": "8/3/2003 11:36:19 PM"
+        }
+      ]
+    }
+  ]
+}

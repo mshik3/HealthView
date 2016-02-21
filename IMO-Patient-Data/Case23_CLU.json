@@ -1,0 +1,43 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/22/1971 5:57:46 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName14",
+        "family": "lastName14"
+      },
+      "dateOfBirth": "11/22/1971 5:57:46 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CERVICAL INTRAEPITHELIAL NEOPLASIA GRADE 1 (DISORDER)",
+          "translationName": "MILD DYSPLASIA OF CERVIX",
+          "enteredDate": "4/28/1982 8:51:52 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ENDOMETRIAL DISORDER (DISORDER)",
+          "translationName": "POLYP OF CORPUS UTERI",
+          "enteredDate": "4/28/1982 8:51:52 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ENLARGED UTERUS (FINDING)",
+          "translationName": "HYPERTROPHY OF UTERUS",
+          "enteredDate": "4/28/1982 8:51:52 PM"
+        }
+      ]
+    }
+  ]
+}

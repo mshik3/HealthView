@@ -1,0 +1,55 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "5/3/1984 9:18:07 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName6",
+        "family": "lastName6"
+      },
+      "dateOfBirth": "5/3/1984 9:18:07 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BICORNUATE UTERUS (DISORDER)",
+          "translationName": "OTHER CONGENITAL ANOMALIES OF UTERUS",
+          "enteredDate": "4/9/1996 3:05:07 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "MORBID OBESITY (DISORDER)",
+          "translationName": "MORBID OBESITY",
+          "enteredDate": "3/25/1991 7:38:30 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "POSTSURGICAL MENOPAUSE (DISORDER)",
+          "translationName": "SYMPTOMATIC MENOPAUSAL OR FEMALE CLIMACTERIC STATES",
+          "enteredDate": "3/25/1991 7:38:30 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ENDOMETRIOSIS (DISORDER)",
+          "translationName": "ENDOMETRIOSIS SITE UNSPECIFIED",
+          "enteredDate": "3/25/1991 7:38:30 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "BICORNUATE UTERUS (DISORDER)",
+          "translationName": "OTHER CONGENITAL ANOMALIES OF UTERUS",
+          "enteredDate": "3/25/1991 7:38:30 PM"
+        }
+      ]
+    }
+  ]
+}

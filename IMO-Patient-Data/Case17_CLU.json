@@ -1,0 +1,26 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "1/16/1949 9:07:53 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName7",
+        "family": "lastName7"
+      },
+      "dateOfBirth": "1/16/1949 9:07:53 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ACNE (DISORDER)",
+          "translationName": "OTHER SPECIFIED DISEASES OF SEBACEOUS GLANDS",
+          "enteredDate": "10/31/1963 3:31:07 AM"
+        }
+      ]
+    }
+  ]
+}

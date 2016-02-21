@@ -1,0 +1,112 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "10/7/1965 10:51:22 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName52",
+        "family": "lastName52"
+      },
+      "dateOfBirth": "10/7/1965 10:51:22 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "SINOATRIAL NODE TACHYCARDIA (DISORDER)",
+          "translationName": "OTHER SPECIFIED CARDIAC DYSRHYTHMIAS",
+          "enteredDate": "3/26/2004 6:07:01 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FECOLITH IN APPENDIX (DISORDER)",
+          "translationName": "OTHER IMPACTION OF INTESTINE",
+          "enteredDate": "3/26/2004 6:07:01 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC PAIN SYNDROME (DISORDER)",
+          "translationName": "CHRONIC PAIN SYNDROME",
+          "enteredDate": "7/25/1972 4:59:49 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "IGE-MEDIATED ALLERGIC ASTHMA (DISORDER)",
+          "translationName": "EXTRINSIC ASTHMA UNSPECIFIED",
+          "enteredDate": "7/25/1972 4:59:49 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALLERGIC BRONCHITIS (DISORDER)",
+          "translationName": "EXTRINSIC ASTHMA UNSPECIFIED",
+          "enteredDate": "7/25/1972 4:59:49 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PROCEDURES DOCUMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "LYMPHADENITIS (DISORDER)",
+          "translationName": "ACUTE LYMPHADENITIS",
+          "enteredDate": "3/16/1982 3:43:14 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "2/4/1989 9:29:44 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "VENTRICULAR TACHYCARDIA (DISORDER)",
+          "translationName": "PAROXYSMAL VENTRICULAR TACHYCARDIA",
+          "enteredDate": "1/26/1967 7:05:57 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERTENSIVE RENAL DISEASE (DISORDER)",
+          "translationName": "UNSPECIFIED ESSENTIAL HYPERTENSION",
+          "enteredDate": "10/15/1984 7:07:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "NONSPECIFIC ABDOMINAL PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN UNSPECIFIED SITE",
+          "enteredDate": "10/15/1984 7:07:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FIBROMYOSITIS (DISORDER)",
+          "translationName": "MYALGIA AND MYOSITIS UNSPECIFIED",
+          "enteredDate": "10/15/1984 7:07:22 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC PAIN SYNDROME (DISORDER)",
+          "translationName": "CHRONIC PAIN SYNDROME",
+          "enteredDate": "10/15/1984 7:07:22 PM"
+        }
+      ]
+    }
+  ]
+}

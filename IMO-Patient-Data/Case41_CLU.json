@@ -1,0 +1,95 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "1/13/1944 12:28:24 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName34",
+        "family": "lastName34"
+      },
+      "dateOfBirth": "1/13/1944 12:28:24 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NAUSEA AND VOMITING (DISORDER)",
+          "translationName": "NAUSEA WITH VOMITING",
+          "enteredDate": "10/2/1955 1:27:11 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UMBILICAL PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN UNSPECIFIED SITE",
+          "enteredDate": "4/9/1981 2:10:16 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "6/7/1963 3:37:04 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTRIC ULCER (DISORDER)",
+          "translationName": "GASTRIC ULCER UNSPECIFIED AS ACUTE OR CHRONIC WITHOUT HEMORRHAGE OR PERFORATION WITHOUT OBSTRUCTION",
+          "enteredDate": "6/7/1963 3:37:04 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSURIA (FINDING)",
+          "translationName": "DYSURIA",
+          "enteredDate": "6/7/1963 3:37:04 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "6/7/1963 3:37:04 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DEHYDRATION (DISORDER)",
+          "translationName": "DEHYDRATION",
+          "enteredDate": "8/18/1996 6:30:02 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PRERENAL UREMIA SYNDROME (DISORDER)",
+          "translationName": "OTHER SYMPTOMS INVOLVING URINARY SYSTEM",
+          "enteredDate": "8/18/1996 6:30:02 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ACUTE GASTROENTERITIS (DISORDER)",
+          "translationName": "ACUTE GASTRITIS (WITHOUT HEMORRHAGE)",
+          "enteredDate": "8/18/1996 6:30:02 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPOKALEMIA (DISORDER)",
+          "translationName": "HYPOPOTASSEMIA",
+          "enteredDate": "8/18/1996 6:30:02 PM"
+        }
+      ]
+    }
+  ]
+}

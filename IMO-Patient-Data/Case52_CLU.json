@@ -1,0 +1,94 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "5/14/1998 6:36:36 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName46",
+        "family": "lastName46"
+      },
+      "dateOfBirth": "5/14/1998 6:36:36 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "LEFT LOWER QUADRANT PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN LEFT LOWER QUADRANT",
+          "enteredDate": "2/5/2009 8:14:58 AM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "9/3/2000 8:33:13 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "9/3/2000 8:33:13 PM"
+        }
+      ]
+    },
+    {
+      "title": "genitourinary",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "RETENTION OF URINE (DISORDER)",
+          "translationName": "OTHER SPECIFIED RETENTION OF URINE",
+          "enteredDate": "9/3/2000 8:33:13 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DIVERTICULITIS (DISORDER)",
+          "translationName": "DIVERTICULITIS OF COLON (WITHOUT HEMORRHAGE)",
+          "enteredDate": "6/28/2002 1:33:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEHYDRATION (DISORDER)",
+          "translationName": "DEHYDRATION",
+          "enteredDate": "6/28/2002 1:33:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PRERENAL UREMIA SYNDROME (DISORDER)",
+          "translationName": "OTHER SYMPTOMS INVOLVING URINARY SYSTEM",
+          "enteredDate": "6/28/2002 1:33:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "BENIGN ESSENTIAL HYPERTENSION (DISORDER)",
+          "translationName": "BENIGN ESSENTIAL HYPERTENSION",
+          "enteredDate": "6/28/2002 1:33:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "6/28/2002 1:33:48 AM"
+        }
+      ]
+    }
+  ]
+}

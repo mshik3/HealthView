@@ -1,0 +1,48 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "5/20/1934 7:19:55 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName66",
+        "family": "lastName66"
+      },
+      "dateOfBirth": "5/20/1934 7:19:55 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "LOWER ABDOMINAL PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN OTHER SPECIFIED SITE",
+          "enteredDate": "7/17/1938 5:18:09 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FEMALE PELVIC INFLAMMATORY DISEASE (DISORDER)",
+          "translationName": "UNSPECIFIED INFLAMMATORY DISEASE OF FEMALE PELVIC ORGANS AND TISSUES",
+          "enteredDate": "7/10/1967 6:09:33 PM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+          "enteredDate": "7/10/1967 6:09:33 PM"
+        }
+      ]
+    }
+  ]
+}

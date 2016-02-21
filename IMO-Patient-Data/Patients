@@ -1,0 +1,544 @@
+{
+	"patients" : [
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "10/25/1950 12:35:08 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName10",
+		        "family": "lastName10"
+		      },
+		      "dateOfBirth": "10/25/1950 12:35:08 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "BREAST LUMP (FINDING)",
+		          "translationName": "LUMP OR MASS IN BREAST",
+		          "enteredDate": "7/17/1966 12:05:24 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "MALIGNANT TUMOR OF BREAST (DISORDER)",
+		          "translationName": "MALIGNANT NEOPLASM OF BREAST (FEMALE) UNSPECIFIED SITE",
+		          "enteredDate": "7/17/1966 12:05:24 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "BACKACHE (FINDING)",
+		          "translationName": "BACKACHE UNSPECIFIED",
+		          "enteredDate": "1/5/1956 6:25:01 PM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "5/22/2008 11:55:35 PM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName21",
+		        "family": "lastName21"
+		      },
+		      "dateOfBirth": "5/22/2008 11:55:35 PM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "miscellaneous",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "VAGINAL DRYNESS (DISORDER)",
+		          "translationName": "OTHER SPECIFIED NONINFLAMMATORY DISORDERS OF VAGINA",
+		          "enteredDate": "8/14/2014 4:32:23 PM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+		          "translationName": "URINARY FREQUENCY",
+		          "enteredDate": "8/14/2014 4:32:23 PM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "DYSURIA (FINDING)",
+		          "translationName": "DYSURIA",
+		          "enteredDate": "8/14/2014 4:32:23 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "ATROPHIC VAGINITIS (DISORDER)",
+		          "translationName": "ARTHROPATHY INVOLVING MULTIPLE SITES ASSOCIATED WITH REITER'S DISEASE AND NONSPECIFIC URETHRITIS",
+		          "enteredDate": "8/14/2014 4:32:23 PM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "12/12/1995 8:35:13 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName32",
+		        "family": "lastName32"
+		      },
+		      "dateOfBirth": "12/12/1995 8:35:13 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "miscellaneous",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "UPPER RESPIRATORY INFECTION (DISORDER)",
+		          "translationName": "ACUTE UPPER RESPIRATORY INFECTIONS OF UNSPECIFIED SITE",
+		          "enteredDate": "10/28/2010 2:08:45 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "ANEMIA (DISORDER)",
+		          "translationName": "ANEMIA UNSPECIFIED",
+		          "enteredDate": "7/4/1998 1:17:20 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "BRONCHITIS (DISORDER)",
+		          "translationName": "UNSPECIFIED SINUSITIS (CHRONIC)",
+		          "enteredDate": "7/4/1998 1:17:20 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "infant",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+		          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+		          "enteredDate": "7/4/1998 1:17:20 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "CANDIDAL VULVOVAGINITIS (DISORDER)",
+		          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+		          "enteredDate": "7/4/1998 1:17:20 AM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "2/16/1957 10:22:54 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName43",
+		        "family": "lastName43"
+		      },
+		      "dateOfBirth": "2/16/1957 10:22:54 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "DYSURIA (FINDING)",
+		          "translationName": "DYSURIA",
+		          "enteredDate": "8/13/1975 8:26:31 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "ITCHING (FINDING)",
+		          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+		          "enteredDate": "8/13/1975 8:26:31 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "PLAN OF TREATMENT",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+		          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+		          "enteredDate": "3/25/1959 5:15:22 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "SYPHILIS (DISORDER)",
+		          "translationName": "SYPHILIS UNSPECIFIED",
+		          "enteredDate": "3/25/1959 5:15:22 AM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "6/7/2014 3:19:44 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName54",
+		        "family": "lastName54"
+		      },
+		      "dateOfBirth": "6/7/2014 3:19:44 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "PRURITUS OF VULVA (DISORDER)",
+		          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+		          "enteredDate": "2/24/2015 5:52:08 PM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "CANDIDIASIS OF VAGINA (DISORDER)",
+		          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+		          "enteredDate": "2/24/2015 5:52:08 PM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "2/14/1939 9:35:47 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName64",
+		        "family": "lastName64"
+		      },
+		      "dateOfBirth": "2/14/1939 9:35:47 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "UTERUS PRESENT (FINDING)",
+		          "translationName": "LEIOMYOMA OF UTERUS UNSPECIFIED",
+		          "enteredDate": "7/19/1974 1:37:35 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "GASTROESOPHAGEAL REFLUX DISEASE (DISORDER)",
+		          "translationName": "ESOPHAGEAL REFLUX",
+		          "enteredDate": "2/8/1962 1:41:37 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "BACTERIAL VAGINOSIS (DISORDER)",
+		          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+		          "enteredDate": "5/22/1989 3:50:51 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+		          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+		          "enteredDate": "5/22/1989 3:50:51 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "BACTERIAL VAGINOSIS (DISORDER)",
+		          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+		          "enteredDate": "5/22/1989 3:50:51 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "PLAN OF TREATMENT",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+		          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+		          "enteredDate": "5/22/1989 3:50:51 AM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "9/12/1931 1:21:07 AM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName65",
+		        "family": "lastName65"
+		      },
+		      "dateOfBirth": "9/12/1931 1:21:07 AM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "PRURITUS OF VAGINA (DISORDER)",
+		          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+		          "enteredDate": "5/10/1933 6:59:30 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "LOWER ABDOMINAL PAIN (FINDING)",
+		          "translationName": "ABDOMINAL PAIN OTHER SPECIFIED SITE",
+		          "enteredDate": "5/10/1933 6:59:30 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+		          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+		          "enteredDate": "2/28/2003 10:38:27 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "VAGINITIS (DISORDER)",
+		          "translationName": "VAGINITIS AND VULVOVAGINITIS UNSPECIFIED",
+		          "enteredDate": "2/28/2003 10:38:27 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "PLAN OF TREATMENT",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+		          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+		          "enteredDate": "2/28/2003 10:38:27 PM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "5/20/1934 7:19:55 PM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName66",
+		        "family": "lastName66"
+		      },
+		      "dateOfBirth": "5/20/1934 7:19:55 PM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "miscellaneous",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "LOWER ABDOMINAL PAIN (FINDING)",
+		          "translationName": "ABDOMINAL PAIN OTHER SPECIFIED SITE",
+		          "enteredDate": "7/17/1938 5:18:09 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "FEMALE PELVIC INFLAMMATORY DISEASE (DISORDER)",
+		          "translationName": "UNSPECIFIED INFLAMMATORY DISEASE OF FEMALE PELVIC ORGANS AND TISSUES",
+		          "enteredDate": "7/10/1967 6:09:33 PM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "PLAN OF TREATMENT",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+		          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+		          "enteredDate": "7/10/1967 6:09:33 PM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "6/29/1995 3:08:39 PM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName67",
+		        "family": "lastName67"
+		      },
+		      "dateOfBirth": "6/29/1995 3:08:39 PM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "miscellaneous",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+		          "translationName": "URINARY FREQUENCY",
+		          "enteredDate": "8/13/2010 10:22:50 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "DYSURIA (FINDING)",
+		          "translationName": "DYSURIA",
+		          "enteredDate": "8/13/2010 10:22:50 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "ASTHMA (DISORDER)",
+		          "translationName": "ASTHMA UNSPECIFIED",
+		          "enteredDate": "8/13/2010 10:22:50 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "HISTORY OF PAST ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "CANDIDIASIS (DISORDER)",
+		          "translationName": "CANDIDIASIS OF UNSPECIFIED SITE",
+		          "enteredDate": "11/5/2001 12:32:20 AM"
+		        },
+		        {
+		          "type": "Condition",
+		          "enteredName": "VAGINITIS (DISORDER)",
+		          "translationName": "VAGINITIS AND VULVOVAGINITIS UNSPECIFIED",
+		          "enteredDate": "11/5/2001 12:32:20 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "INFLAMMATION OF CERVIX (DISORDER)",
+		          "translationName": "CERVICITIS AND ENDOCERVICITIS",
+		          "enteredDate": "11/5/2001 12:32:20 AM"
+		        }
+		      ]
+		    }
+		  ]
+		},
+		{
+		  "clinicalDocument": {
+		    "effectiveTime": "8/3/1987 12:56:35 PM",
+		    "patientInformation": {
+		      "name": {
+		        "given": "firstName0",
+		        "family": "lastName0"
+		      },
+		      "dateOfBirth": "8/3/1987 12:56:35 PM",
+		      "gender": "male"
+		    }
+		  },
+		  "sections": [
+		    {
+		      "title": "HISTORY OF PRESENT ILLNESS",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "ITCHING (FINDING)",
+		          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+		          "enteredDate": "3/26/2006 1:20:36 AM"
+		        }
+		      ]
+		    },
+		    {
+		      "title": "ASSESSMENT NOTE",
+		      "entries": [
+		        {
+		          "type": "Condition",
+		          "enteredName": "SARCOPTIC MANGE (DISORDER)",
+		          "translationName": "OTHER SPECIFIED INFECTIOUS AND PARASITIC DISEASES",
+		          "enteredDate": "6/4/1989 9:43:47 AM"
+		        }
+		      ]
+		    }
+		  ]
+		}
+	]
+}

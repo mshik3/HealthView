@@ -1,0 +1,140 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/5/2003 10:26:16 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName40",
+        "family": "lastName40"
+      },
+      "dateOfBirth": "2/5/2003 10:26:16 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PRODUCTIVE COUGH (FINDING)",
+          "translationName": "COUGH",
+          "enteredDate": "6/13/2013 6:14:00 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NON-PRODUCTIVE COUGH (FINDING)",
+          "translationName": "COUGH",
+          "enteredDate": "6/13/2013 6:14:00 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAROXYSMAL COUGH (FINDING)",
+          "translationName": "COUGH",
+          "enteredDate": "6/13/2013 6:14:00 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "NASAL CONGESTION (FINDING)",
+          "translationName": "OTHER DISEASE OF NASAL CAVITY AND SINUSES",
+          "enteredDate": "6/13/2013 6:14:00 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC KIDNEY DISEASE STAGE 2 (DISORDER)",
+          "translationName": "CHRONIC KIDNEY DISEASE, STAGE II (MILD)",
+          "enteredDate": "9/19/2005 1:47:37 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "BENIGN ESSENTIAL HYPERTENSION (DISORDER)",
+          "translationName": "BENIGN HYPERTENSIVE RENAL DISEASE WITHOUT RENAL FAILURE",
+          "enteredDate": "9/19/2005 1:47:37 AM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA ON EXERTION (FINDING)",
+          "translationName": "RESPIRATORY ABNORMALITY OTHER",
+          "enteredDate": "10/11/2012 4:28:25 AM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "10/11/2012 4:28:25 AM"
+        }
+      ]
+    },
+    {
+      "title": "gastrointestinal",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DIARRHEA (FINDING)",
+          "translationName": "DIARRHEA",
+          "enteredDate": "10/11/2012 4:28:25 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "RIGHT LOWER ZONE PNEUMONIA (DISORDER)",
+          "translationName": "PNEUMONIA ORGANISM UNSPECIFIED",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ACUTE RESPIRATORY FAILURE (DISORDER)",
+          "translationName": "ACUTE RESPIRATORY FAILURE",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEHYDRATION (DISORDER)",
+          "translationName": "DEHYDRATION",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC KIDNEY DISEASE STAGE 2 (DISORDER)",
+          "translationName": "CHRONIC KIDNEY DISEASE, STAGE II (MILD)",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "BENIGN ESSENTIAL HYPERTENSION (DISORDER)",
+          "translationName": "BENIGN HYPERTENSIVE RENAL DISEASE WITHOUT RENAL FAILURE",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "9/13/2008 7:23:48 AM"
+        }
+      ]
+    }
+  ]
+}

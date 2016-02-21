@@ -1,0 +1,26 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/11/1974 4:46:23 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName9",
+        "family": "lastName9"
+      },
+      "dateOfBirth": "11/11/1974 4:46:23 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+          "enteredDate": "7/19/2010 10:09:13 AM"
+        }
+      ]
+    }
+  ]
+}

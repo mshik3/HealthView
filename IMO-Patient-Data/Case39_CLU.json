@@ -1,0 +1,14 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "10/8/1948 2:44:16 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName31",
+        "family": "lastName31"
+      },
+      "dateOfBirth": "10/8/1948 2:44:16 PM",
+      "gender": "male"
+    }
+  },
+  "sections": []
+}

@@ -1,0 +1,76 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/14/1939 9:35:47 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName64",
+        "family": "lastName64"
+      },
+      "dateOfBirth": "2/14/1939 9:35:47 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UTERUS PRESENT (FINDING)",
+          "translationName": "LEIOMYOMA OF UTERUS UNSPECIFIED",
+          "enteredDate": "7/19/1974 1:37:35 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "GASTROESOPHAGEAL REFLUX DISEASE (DISORDER)",
+          "translationName": "ESOPHAGEAL REFLUX",
+          "enteredDate": "2/8/1962 1:41:37 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BACTERIAL VAGINOSIS (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "5/22/1989 3:50:51 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+          "enteredDate": "5/22/1989 3:50:51 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BACTERIAL VAGINOSIS (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "5/22/1989 3:50:51 AM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+          "enteredDate": "5/22/1989 3:50:51 AM"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "7/26/2012 4:31:48 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName33",
+        "family": "lastName33"
+      },
+      "dateOfBirth": "7/26/2012 4:31:48 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "VAGINAL TRICHOMONIASIS (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "6/1/2013 6:56:45 PM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+          "enteredDate": "12/29/2012 12:51:07 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYPHILIS (DISORDER)",
+          "translationName": "SYPHILIS UNSPECIFIED",
+          "enteredDate": "12/29/2012 12:51:07 AM"
+        }
+      ]
+    }
+  ]
+}

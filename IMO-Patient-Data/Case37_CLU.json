@@ -1,0 +1,32 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/17/1970 12:56:43 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName29",
+        "family": "lastName29"
+      },
+      "dateOfBirth": "2/17/1970 12:56:43 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSMENORRHEA (DISORDER)",
+          "translationName": "DYSMENORRHEA",
+          "enteredDate": "5/8/1991 1:35:43 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PELVIC AND PERINEAL PAIN (FINDING)",
+          "translationName": "UNSPECIFIED SYMPTOM ASSOCIATED WITH FEMALE GENITAL ORGANS",
+          "enteredDate": "5/8/1991 1:35:43 AM"
+        }
+      ]
+    }
+  ]
+}

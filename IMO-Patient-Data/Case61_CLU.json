@@ -1,0 +1,107 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/15/1952 12:09:36 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName56",
+        "family": "lastName56"
+      },
+      "dateOfBirth": "2/15/1952 12:09:36 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ATELECTASIS (DISORDER)",
+          "translationName": "PULMONARY COLLAPSE",
+          "enteredDate": "5/29/2005 4:22:12 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "EPIGASTRIC PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN EPIGASTRIC",
+          "enteredDate": "12/27/1964 10:54:29 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAIN (FINDING)",
+          "translationName": "GENERALIZED PAIN",
+          "enteredDate": "12/27/1964 10:54:29 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEMENTIA (DISORDER)",
+          "translationName": "OTHER PERSISTENT MENTAL DISORDERS DUE TO CONDITIONS CLASSIFIED ELSEWHERE",
+          "enteredDate": "8/10/1987 5:17:09 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "8/10/1987 5:17:09 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FRACTURE OF LOWER LIMB (DISORDER)",
+          "translationName": "CLOSED FRACTURE OF CARPAL BONE UNSPECIFIED",
+          "enteredDate": "8/10/1987 5:17:09 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PROCEDURES DOCUMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CATARACT (DISORDER)",
+          "translationName": "UNSPECIFIED CATARACT",
+          "enteredDate": "3/19/2012 4:39:37 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "LEFT LOWER ZONE PNEUMONIA (DISORDER)",
+          "translationName": "PNEUMONIA ORGANISM UNSPECIFIED",
+          "enteredDate": "5/26/1987 4:46:29 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "EPIGASTRIC PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN EPIGASTRIC",
+          "enteredDate": "1/6/2010 11:09:09 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HIATAL HERNIA (DISORDER)",
+          "translationName": "DIAPHRAGMATIC HERNIA WITHOUT OBSTRUCTION OR GANGRENE",
+          "enteredDate": "1/6/2010 11:09:09 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEMENTIA (DISORDER)",
+          "translationName": "OTHER PERSISTENT MENTAL DISORDERS DUE TO CONDITIONS CLASSIFIED ELSEWHERE",
+          "enteredDate": "1/6/2010 11:09:09 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEHYDRATION (DISORDER)",
+          "translationName": "DEHYDRATION",
+          "enteredDate": "1/6/2010 11:09:09 AM"
+        }
+      ]
+    }
+  ]
+}

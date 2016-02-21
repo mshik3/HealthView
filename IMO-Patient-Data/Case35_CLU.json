@@ -1,0 +1,32 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "7/22/1977 9:11:24 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName27",
+        "family": "lastName27"
+      },
+      "dateOfBirth": "7/22/1977 9:11:24 AM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSMENORRHEA (DISORDER)",
+          "translationName": "DYSMENORRHEA",
+          "enteredDate": "1/17/2012 1:46:00 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ANEMIA (DISORDER)",
+          "translationName": "ANEMIA UNSPECIFIED",
+          "enteredDate": "12/8/1987 3:32:14 PM"
+        }
+      ]
+    }
+  ]
+}

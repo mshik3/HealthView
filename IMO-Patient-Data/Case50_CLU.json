@@ -1,0 +1,118 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "1/30/1933 6:11:38 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName44",
+        "family": "lastName44"
+      },
+      "dateOfBirth": "1/30/1933 6:11:38 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "EPIGASTRIC PAIN (FINDING)",
+          "translationName": "ABDOMINAL PAIN EPIGASTRIC",
+          "enteredDate": "1/19/1936 7:20:46 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NAUSEA AND VOMITING (DISORDER)",
+          "translationName": "NAUSEA WITH VOMITING",
+          "enteredDate": "1/19/1936 7:20:46 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UPPER GASTROINTESTINAL HEMORRHAGE (DISORDER)",
+          "translationName": "HEMORRHAGE OF GASTROINTESTINAL TRACT UNSPECIFIED",
+          "enteredDate": "9/11/2004 1:57:01 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC LOW BACK PAIN (FINDING)",
+          "translationName": "LUMBAGO",
+          "enteredDate": "9/11/2004 1:57:01 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SMALL BOWEL OBSTRUCTION (DISORDER)",
+          "translationName": "UNSPECIFIED INTESTINAL OBSTRUCTION",
+          "enteredDate": "1/27/1952 12:05:32 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC ANEMIA (DISORDER)",
+          "translationName": "ANEMIA UNSPECIFIED",
+          "enteredDate": "1/27/1952 12:05:32 AM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "7/23/2013 1:31:57 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "7/23/2013 1:31:57 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTRIC ULCER (DISORDER)",
+          "translationName": "GASTRIC ULCER UNSPECIFIED AS ACUTE OR CHRONIC WITHOUT HEMORRHAGE OR PERFORATION WITHOUT OBSTRUCTION",
+          "enteredDate": "7/23/2013 1:31:57 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "7/23/2013 1:31:57 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ACUTE GASTRITIS (DISORDER)",
+          "translationName": "ACUTE GASTRITIS (WITHOUT HEMORRHAGE)",
+          "enteredDate": "5/27/2006 8:22:07 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPONATREMIA (DISORDER)",
+          "translationName": "HYPOSMOLALITY AND/OR HYPONATREMIA",
+          "enteredDate": "5/27/2006 8:22:07 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DEHYDRATION (DISORDER)",
+          "translationName": "DEHYDRATION",
+          "enteredDate": "5/27/2006 8:22:07 AM"
+        }
+      ]
+    }
+  ]
+}

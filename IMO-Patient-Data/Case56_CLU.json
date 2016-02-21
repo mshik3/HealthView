@@ -1,0 +1,95 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "8/4/1961 6:15:09 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName50",
+        "family": "lastName50"
+      },
+      "dateOfBirth": "8/4/1961 6:15:09 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "HYPERTENSIVE DISORDER, SYSTEMIC ARTERIAL (DISORDER)",
+          "translationName": "OTHER CHRONIC PULMONARY HEART DISEASES",
+          "enteredDate": "9/12/1972 4:51:16 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "RENAL MASS (FINDING)",
+          "translationName": "UNSPECIFIED DISORDER OF KIDNEY AND URETER",
+          "enteredDate": "12/2/1991 10:47:38 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "MULTIPLE RENAL CYSTS (DISORDER)",
+          "translationName": "CYST OF KIDNEY ACQUIRED",
+          "enteredDate": "12/2/1991 10:47:38 AM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "9/13/1997 11:41:34 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "9/13/1997 11:41:34 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NEAR SYNCOPE (DISORDER)",
+          "translationName": "SYNCOPE AND COLLAPSE",
+          "enteredDate": "1/18/1965 12:42:47 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYNCOPE (DISORDER)",
+          "translationName": "SYNCOPE AND COLLAPSE",
+          "enteredDate": "1/18/1965 12:42:47 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "RENAL MASS (FINDING)",
+          "translationName": "UNSPECIFIED DISORDER OF KIDNEY AND URETER",
+          "enteredDate": "4/7/1984 6:39:08 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPOTHYROIDISM (DISORDER)",
+          "translationName": "UNSPECIFIED ACQUIRED HYPOTHYROIDISM",
+          "enteredDate": "4/7/1984 6:39:08 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "HYPERLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "4/7/1984 6:39:08 PM"
+        }
+      ]
+    }
+  ]
+}

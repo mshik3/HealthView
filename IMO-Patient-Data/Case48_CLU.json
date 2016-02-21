@@ -1,0 +1,78 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "8/5/1931 7:34:13 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName41",
+        "family": "lastName41"
+      },
+      "dateOfBirth": "8/5/1931 7:34:13 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ASTHMA (DISORDER)",
+          "translationName": "ASTHMA UNSPECIFIED",
+          "enteredDate": "2/20/1963 9:38:38 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "10/5/1995 10:34:43 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "10/5/1995 10:34:43 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTRIC ULCER (DISORDER)",
+          "translationName": "GASTRIC ULCER UNSPECIFIED AS ACUTE OR CHRONIC WITHOUT HEMORRHAGE OR PERFORATION WITHOUT OBSTRUCTION",
+          "enteredDate": "10/5/1995 10:34:43 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "10/5/1995 10:34:43 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NOSOCOMIAL PNEUMONIA (DISORDER)",
+          "translationName": "PNEUMONIA IN OTHER INFECTIOUS DISEASES CLASSIFIED ELSEWHERE",
+          "enteredDate": "10/13/2004 2:29:50 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PRODUCTIVE COUGH (FINDING)",
+          "translationName": "COUGH",
+          "enteredDate": "10/13/2004 2:29:50 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "OSTEOARTHRITIS (DISORDER)",
+          "translationName": "OSTEOARTHROSIS UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED INVOLVING UNSPECIFIED SITE",
+          "enteredDate": "10/13/2004 2:29:50 AM"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/13/1935 5:36:18 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName24",
+        "family": "lastName24"
+      },
+      "dateOfBirth": "2/13/1935 5:36:18 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "INTRACRANIAL ANEURYSM (DISORDER)",
+          "translationName": "CEREBRAL ANEURYSM NONRUPTURED",
+          "enteredDate": "8/24/1968 8:26:47 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSMENORRHEA (DISORDER)",
+          "translationName": "DYSMENORRHEA",
+          "enteredDate": "12/26/2012 1:25:31 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAIN (FINDING)",
+          "translationName": "GENERALIZED PAIN",
+          "enteredDate": "12/26/2012 1:25:31 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PELVIC AND PERINEAL PAIN (FINDING)",
+          "translationName": "UNSPECIFIED SYMPTOM ASSOCIATED WITH FEMALE GENITAL ORGANS",
+          "enteredDate": "12/26/2012 1:25:31 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "POSTOPERATIVE PAIN (FINDING)",
+          "translationName": "OTHER ACUTE POSTOPERATIVE PAIN",
+          "enteredDate": "12/26/2012 1:25:31 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ADHESION OF OMENTUM (DISORDER)",
+          "translationName": "PERITONEAL ADHESIONS (POSTOPERATIVE) (POSTINFECTION)",
+          "enteredDate": "11/22/1999 7:43:52 AM"
+        }
+      ]
+    }
+  ]
+}

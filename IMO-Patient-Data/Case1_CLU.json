@@ -1,0 +1,45 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "10/25/1950 12:35:08 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName10",
+        "family": "lastName10"
+      },
+      "dateOfBirth": "10/25/1950 12:35:08 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BREAST LUMP (FINDING)",
+          "translationName": "LUMP OR MASS IN BREAST",
+          "enteredDate": "7/17/1966 12:05:24 AM",
+          "IMO_LEXICAL_CODE": "72948",
+          "ICD10CM_CODE": "N63"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "MALIGNANT TUMOR OF BREAST (DISORDER)",
+          "translationName": "MALIGNANT NEOPLASM OF BREAST (FEMALE) UNSPECIFIED SITE",
+          "enteredDate": "7/17/1966 12:05:24 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BACKACHE (FINDING)",
+          "translationName": "BACKACHE UNSPECIFIED",
+          "enteredDate": "1/5/1956 6:25:01 PM"
+        }
+      ]
+    }
+  ]
+}

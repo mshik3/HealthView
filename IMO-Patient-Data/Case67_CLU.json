@@ -1,0 +1,169 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "5/8/1980 7:23:17 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName62",
+        "family": "lastName62"
+      },
+      "dateOfBirth": "5/8/1980 7:23:17 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "RECTAL HEMORRHAGE (DISORDER)",
+          "translationName": "HEMORRHAGE OF RECTUM AND ANUS",
+          "enteredDate": "12/6/2000 8:45:52 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ABDOMINAL DISTENSION (FINDING)",
+          "translationName": "FLATULENCE ERUCTATION AND GAS PAIN",
+          "enteredDate": "6/2/2013 1:31:38 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC RENAL IMPAIRMENT (DISORDER)",
+          "translationName": "CHRONIC KIDNEY DISEASE, UNSPECIFIED",
+          "enteredDate": "11/23/1997 7:06:01 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "MALARIA (DISORDER)",
+          "translationName": "COCCIDIOSIS",
+          "enteredDate": "11/23/1997 7:06:01 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYSTOLIC HEART FAILURE (DISORDER)",
+          "translationName": "CONGESTIVE HEART FAILURE UNSPECIFIED",
+          "enteredDate": "11/23/1997 7:06:01 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "VENTRICULAR TACHYCARDIA (DISORDER)",
+          "translationName": "PAROXYSMAL VENTRICULAR TACHYCARDIA",
+          "enteredDate": "3/14/1992 7:45:35 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ANEMIA OF CHRONIC DISORDER (DISORDER)",
+          "translationName": "ANEMIA IN CHRONIC KIDNEY DISEASE",
+          "enteredDate": "3/14/1992 7:45:35 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "TRAUMATIC PLANTAR FASCIITIS (DISORDER)",
+          "translationName": "PLANTAR FASCIAL FIBROMATOSIS",
+          "enteredDate": "3/14/1992 7:45:35 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PROCEDURES DOCUMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FRACTURE OF NECK OF FEMUR (DISORDER)",
+          "translationName": "FRACTURE OF UNSPECIFIED PART OF NECK OF FEMUR CLOSED",
+          "enteredDate": "6/26/2011 5:56:40 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "APPENDICITIS (DISORDER)",
+          "translationName": "APPENDICITIS UNQUALIFIED",
+          "enteredDate": "6/26/2011 5:56:40 AM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "12/17/1995 11:31:03 AM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "12/17/1995 11:31:03 AM"
+        }
+      ]
+    },
+    {
+      "title": "gastrointestinal",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "12/17/1995 11:31:03 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ACUTE GASTROINTESTINAL HEMORRHAGE (DISORDER)",
+          "translationName": "HEMORRHAGE OF GASTROINTESTINAL TRACT UNSPECIFIED",
+          "enteredDate": "3/12/1984 8:50:55 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ANEMIA OF CHRONIC DISORDER (DISORDER)",
+          "translationName": "ANEMIA OF OTHER CHRONIC ILLNESS",
+          "enteredDate": "3/12/1984 8:50:55 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ATRIAL FIBRILLATION (DISORDER)",
+          "translationName": "ATRIAL FIBRILLATION",
+          "enteredDate": "4/21/2013 2:07:11 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYNCOPE (DISORDER)",
+          "translationName": "SYNCOPE AND COLLAPSE",
+          "enteredDate": "4/21/2013 2:07:11 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "VENTRICULAR TACHYCARDIA (DISORDER)",
+          "translationName": "PAROXYSMAL VENTRICULAR TACHYCARDIA",
+          "enteredDate": "4/21/2013 2:07:11 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYSTOLIC HEART FAILURE (DISORDER)",
+          "translationName": "CONGESTIVE HEART FAILURE UNSPECIFIED",
+          "enteredDate": "4/21/2013 2:07:11 PM"
+        }
+      ]
+    }
+  ]
+}

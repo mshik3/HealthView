@@ -1,0 +1,71 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "6/29/1995 3:08:39 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName67",
+        "family": "lastName67"
+      },
+      "dateOfBirth": "6/29/1995 3:08:39 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "8/13/2010 10:22:50 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSURIA (FINDING)",
+          "translationName": "DYSURIA",
+          "enteredDate": "8/13/2010 10:22:50 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ASTHMA (DISORDER)",
+          "translationName": "ASTHMA UNSPECIFIED",
+          "enteredDate": "8/13/2010 10:22:50 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CANDIDIASIS (DISORDER)",
+          "translationName": "CANDIDIASIS OF UNSPECIFIED SITE",
+          "enteredDate": "11/5/2001 12:32:20 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "VAGINITIS (DISORDER)",
+          "translationName": "VAGINITIS AND VULVOVAGINITIS UNSPECIFIED",
+          "enteredDate": "11/5/2001 12:32:20 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "INFLAMMATION OF CERVIX (DISORDER)",
+          "translationName": "CERVICITIS AND ENDOCERVICITIS",
+          "enteredDate": "11/5/2001 12:32:20 AM"
+        }
+      ]
+    }
+  ]
+}

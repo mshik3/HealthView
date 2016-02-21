@@ -1,0 +1,103 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "9/22/1989 6:08:08 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName38",
+        "family": "lastName38"
+      },
+      "dateOfBirth": "9/22/1989 6:08:08 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "HYPOXEMIA (DISORDER)",
+          "translationName": "HYPOXEMIA",
+          "enteredDate": "7/25/2007 6:21:26 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "NAUSEA (FINDING)",
+          "translationName": "NAUSEA WITH VOMITING",
+          "enteredDate": "5/27/2003 12:28:20 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANOREXIA NERVOSA (DISORDER)",
+          "translationName": "ANOREXIA NERVOSA",
+          "enteredDate": "7/11/2012 4:31:22 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PROCEDURES DOCUMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UPPER GASTROINTESTINAL HEMORRHAGE (DISORDER)",
+          "translationName": "HEMORRHAGE OF GASTROINTESTINAL TRACT UNSPECIFIED",
+          "enteredDate": "1/22/1992 8:49:25 PM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "1/8/1997 6:59:21 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "1/8/1997 6:59:21 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DEVIATED NASAL SEPTUM (DISORDER)",
+          "translationName": "DEVIATED NASAL SEPTUM",
+          "enteredDate": "11/3/1989 9:13:31 PM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "POSTOPERATIVE PAIN (FINDING)",
+          "translationName": "OTHER ACUTE POSTOPERATIVE PAIN",
+          "enteredDate": "11/3/1989 9:13:31 PM"
+        }
+      ]
+    }
+  ]
+}

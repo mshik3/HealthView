@@ -1,0 +1,137 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "1/18/1966 3:41:11 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName51",
+        "family": "lastName51"
+      },
+      "dateOfBirth": "1/18/1966 3:41:11 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FRACTURE OF BONE (DISORDER)",
+          "translationName": "FRACTURE OF UNSPECIFIED PART OF NECK OF FEMUR CLOSED",
+          "enteredDate": "10/20/1978 7:02:41 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FALLS (FINDING)",
+          "translationName": "OBSERVATION FOLLOWING OTHER ACCIDENT",
+          "enteredDate": "10/20/1978 7:02:41 PM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC OBSTRUCTIVE LUNG DISEASE (DISORDER)",
+          "translationName": "CHRONIC AIRWAY OBSTRUCTION NOT ELSEWHERE CLASSIFIED",
+          "enteredDate": "1/16/2014 2:18:17 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ATHEROSCLEROSIS OF CORONARY ARTERY (DISORDER)",
+          "translationName": "CORONARY ATHEROSCLEROSIS OF UNSPECIFIED TYPE OF VESSEL NATIVE OR GRAFT",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "OSTEOARTHRITIS OF KNEE (DISORDER)",
+          "translationName": "OSTEOARTHROSIS UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED INVOLVING LOWER LEG",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTROINTESTINAL HEMORRHAGE (DISORDER)",
+          "translationName": "HEMORRHAGE OF GASTROINTESTINAL TRACT UNSPECIFIED",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAROXYSMAL ATRIAL FIBRILLATION (DISORDER)",
+          "translationName": "ATRIAL FIBRILLATION",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC KIDNEY DISEASE STAGE 3 (DISORDER)",
+          "translationName": "CHRONIC KIDNEY DISEASE, STAGE III (MODERATE)",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CEREBROVASCULAR ACCIDENT (DISORDER)",
+          "translationName": "CEREBRAL ARTERY OCCLUSION UNSPECIFIED WITH CEREBRAL INFARCTION",
+          "enteredDate": "1/3/2006 8:18:04 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+          "enteredDate": "7/9/1974 3:37:04 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALZHEIMER'S DISEASE (DISORDER)",
+          "translationName": "ALZHEIMER'S DISEASE",
+          "enteredDate": "7/9/1974 3:37:04 PM"
+        }
+      ]
+    },
+    {
+      "title": "head eyes ears nose throat",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "7/4/1967 12:23:14 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ALTERED BOWEL FUNCTION (FINDING)",
+          "translationName": "OTHER SYMPTOMS INVOLVING DIGESTIVE SYSTEM",
+          "enteredDate": "7/4/1967 12:23:14 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "GASTRIC ULCER (DISORDER)",
+          "translationName": "GASTRIC ULCER UNSPECIFIED AS ACUTE OR CHRONIC WITHOUT HEMORRHAGE OR PERFORATION WITHOUT OBSTRUCTION",
+          "enteredDate": "7/4/1967 12:23:14 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "7/4/1967 12:23:14 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CELLULITIS (DISORDER)",
+          "translationName": "CELLULITIS AND ABSCESS OF LEG EXCEPT FOOT",
+          "enteredDate": "2/2/1977 10:00:49 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PAROXYSMAL ATRIAL FIBRILLATION (DISORDER)",
+          "translationName": "ATRIAL FIBRILLATION",
+          "enteredDate": "2/2/1977 10:00:49 AM"
+        }
+      ]
+    }
+  ]
+}

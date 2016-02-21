@@ -1,0 +1,43 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "4/29/1949 1:57:43 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName3",
+        "family": "lastName3"
+      },
+      "dateOfBirth": "4/29/1949 1:57:43 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "GENITAL HERPES SIMPLEX (DISORDER)",
+          "translationName": "OTHER GENITAL HERPES",
+          "enteredDate": "4/7/1964 6:34:13 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "PARESTHESIA (FINDING)",
+          "translationName": "DISTURBANCE OF SKIN SENSATION",
+          "enteredDate": "11/20/1987 12:45:56 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DIABETES MELLITUS TYPE 2 (DISORDER)",
+          "translationName": "DIABETES MELLITUS WITHOUT COMPLICATION TYPE II OR UNSPECIFIED TYPE NOT STATED AS UNCONTROLLED",
+          "enteredDate": "9/25/2000 3:15:01 PM"
+        }
+      ]
+    }
+  ]
+}

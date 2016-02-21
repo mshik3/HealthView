@@ -1,0 +1,26 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/17/1936 10:37:21 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName11",
+        "family": "lastName11"
+      },
+      "dateOfBirth": "11/17/1936 10:37:21 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UTERUS FINDING (FINDING)",
+          "translationName": "OTHER DISORDERS OF MENSTRUATION AND OTHER ABNORMAL BLEEDING FROM FEMALE GENITAL TRACT",
+          "enteredDate": "7/27/1986 10:52:37 AM"
+        }
+      ]
+    }
+  ]
+}

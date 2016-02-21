@@ -1,0 +1,141 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "1/19/1936 5:00:16 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName42",
+        "family": "lastName42"
+      },
+      "dateOfBirth": "1/19/1936 5:00:16 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "CHIEF COMPLAINT - REPORTED",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "KNEE PAIN (FINDING)",
+          "translationName": "PAIN IN JOINT INVOLVING LOWER LEG",
+          "enteredDate": "9/2/1941 10:17:11 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FALL (EVENT)",
+          "translationName": "OBSERVATION FOLLOWING OTHER ACCIDENT",
+          "enteredDate": "9/2/1941 10:17:11 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FALLS (FINDING)",
+          "translationName": "OBSERVATION FOLLOWING OTHER ACCIDENT",
+          "enteredDate": "9/2/1941 10:17:11 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "LEG SWELLING (FINDING)",
+          "translationName": "PAIN IN JOINT INVOLVING LOWER LEG",
+          "enteredDate": "9/2/1941 10:17:11 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "STRICTURE OF ESOPHAGUS (DISORDER)",
+          "translationName": "STRICTURE AND STENOSIS OF ESOPHAGUS",
+          "enteredDate": "2/9/1957 10:59:46 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "KIDNEY STONE (DISORDER)",
+          "translationName": "CALCULUS OF KIDNEY",
+          "enteredDate": "2/9/1957 10:59:46 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "LEFT HEMIPARESIS (DISORDER)",
+          "translationName": "UNSPECIFIED HEMIPLEGIA AND HEMIPARESIS AFFECTING UNSPECIFIED SIDE",
+          "enteredDate": "6/30/1985 12:23:37 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "URINARY OUTFLOW OBSTRUCTION (DISORDER)",
+          "translationName": "URINARY OBSTRUCTION, NOT ELSEWHERE CLASSIFIED",
+          "enteredDate": "6/30/1985 12:23:37 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "OSTEOARTHRITIS OF KNEE (DISORDER)",
+          "translationName": "OSTEOARTHROSIS UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED INVOLVING LOWER LEG",
+          "enteredDate": "6/30/1985 12:23:37 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC CONSTIPATION (DISORDER)",
+          "translationName": "OTHER CONSTIPATION",
+          "enteredDate": "6/30/1985 12:23:37 AM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "8/26/1965 8:12:56 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "8/26/1965 8:12:56 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FRACTURE OF UPPER END OF TIBIA (DISORDER)",
+          "translationName": "CLOSED FRACTURE OF UPPER END OF TIBIA",
+          "enteredDate": "3/12/1974 5:26:06 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "URINARY OUTFLOW OBSTRUCTION (DISORDER)",
+          "translationName": "URINARY OBSTRUCTION, NOT ELSEWHERE CLASSIFIED",
+          "enteredDate": "3/12/1974 5:26:06 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "STRICTURE OF ESOPHAGUS (DISORDER)",
+          "translationName": "STRICTURE AND STENOSIS OF ESOPHAGUS",
+          "enteredDate": "3/12/1974 5:26:06 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CHRONIC CONSTIPATION (DISORDER)",
+          "translationName": "OTHER CONSTIPATION",
+          "enteredDate": "3/12/1974 5:26:06 PM"
+        }
+      ]
+    }
+  ]
+}

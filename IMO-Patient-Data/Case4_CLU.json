@@ -1,0 +1,49 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "2/16/1957 10:22:54 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName43",
+        "family": "lastName43"
+      },
+      "dateOfBirth": "2/16/1957 10:22:54 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSURIA (FINDING)",
+          "translationName": "DYSURIA",
+          "enteredDate": "8/13/1975 8:26:31 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "ITCHING (FINDING)",
+          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+          "enteredDate": "8/13/1975 8:26:31 AM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "TYPE B VIRAL HEPATITIS (DISORDER)",
+          "translationName": "VIRAL HEPATITIS B WITHOUT HEPATIC COMA ACUTE OR UNSPECIFIED WITHOUT HEPATITIS DELTA",
+          "enteredDate": "3/25/1959 5:15:22 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "SYPHILIS (DISORDER)",
+          "translationName": "SYPHILIS UNSPECIFIED",
+          "enteredDate": "3/25/1959 5:15:22 AM"
+        }
+      ]
+    }
+  ]
+}

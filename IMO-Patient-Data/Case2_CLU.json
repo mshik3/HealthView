@@ -1,0 +1,49 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "5/22/2008 11:55:35 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName21",
+        "family": "lastName21"
+      },
+      "dateOfBirth": "5/22/2008 11:55:35 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "VAGINAL DRYNESS (DISORDER)",
+          "translationName": "OTHER SPECIFIED NONINFLAMMATORY DISORDERS OF VAGINA",
+          "enteredDate": "8/14/2014 4:32:23 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF FREQUENCY OF URINATION (FINDING)",
+          "translationName": "URINARY FREQUENCY",
+          "enteredDate": "8/14/2014 4:32:23 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "DYSURIA (FINDING)",
+          "translationName": "DYSURIA",
+          "enteredDate": "8/14/2014 4:32:23 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ATROPHIC VAGINITIS (DISORDER)",
+          "translationName": "ARTHROPATHY INVOLVING MULTIPLE SITES ASSOCIATED WITH REITER'S DISEASE AND NONSPECIFIC URETHRITIS",
+          "enteredDate": "8/14/2014 4:32:23 PM"
+        }
+      ]
+    }
+  ]
+}

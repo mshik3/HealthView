@@ -1,0 +1,65 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "12/12/1995 8:35:13 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName32",
+        "family": "lastName32"
+      },
+      "dateOfBirth": "12/12/1995 8:35:13 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UPPER RESPIRATORY INFECTION (DISORDER)",
+          "translationName": "ACUTE UPPER RESPIRATORY INFECTIONS OF UNSPECIFIED SITE",
+          "enteredDate": "10/28/2010 2:08:45 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANEMIA (DISORDER)",
+          "translationName": "ANEMIA UNSPECIFIED",
+          "enteredDate": "7/4/1998 1:17:20 AM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "BRONCHITIS (DISORDER)",
+          "translationName": "UNSPECIFIED SINUSITIS (CHRONIC)",
+          "enteredDate": "7/4/1998 1:17:20 AM"
+        }
+      ]
+    },
+    {
+      "title": "infant",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "SEXUALLY TRANSMITTED INFECTIOUS DISEASE (DISORDER)",
+          "translationName": "VENEREAL DISEASE UNSPECIFIED",
+          "enteredDate": "7/4/1998 1:17:20 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "CANDIDAL VULVOVAGINITIS (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "7/4/1998 1:17:20 AM"
+        }
+      ]
+    }
+  ]
+}

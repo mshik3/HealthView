@@ -1,0 +1,26 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "12/7/1960 1:14:48 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName26",
+        "family": "lastName26"
+      },
+      "dateOfBirth": "12/7/1960 1:14:48 PM",
+      "gender": "female"
+    }
+  },
+  "sections": [
+    {
+      "title": "PHYSICAL FINDINGS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "MIGRAINE (DISORDER)",
+          "translationName": "MIGRAINE, UNSPECIFIED WITHOUT MENTION OF INTRACTABLE MIGRAINE WITHOUT MENTION OF STATUS MIGRAINOSUS",
+          "enteredDate": "2/1/2000 4:47:40 PM"
+        }
+      ]
+    }
+  ]
+}

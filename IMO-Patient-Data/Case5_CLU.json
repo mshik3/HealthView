@@ -1,0 +1,32 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "6/7/2014 3:19:44 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName54",
+        "family": "lastName54"
+      },
+      "dateOfBirth": "6/7/2014 3:19:44 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "PRURITUS OF VULVA (DISORDER)",
+          "translationName": "UNSPECIFIED PRURITIC DISORDER",
+          "enteredDate": "2/24/2015 5:52:08 PM"
+        },
+        {
+          "type": "Condition",
+          "enteredName": "CANDIDIASIS OF VAGINA (DISORDER)",
+          "translationName": "ILLEGAL ABORTION UNSPECIFIED COMPLICATED BY GENITAL TRACT AND PELVIC INFECTION",
+          "enteredDate": "2/24/2015 5:52:08 PM"
+        }
+      ]
+    }
+  ]
+}

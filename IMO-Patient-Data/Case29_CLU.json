@@ -1,0 +1,26 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "3/13/1999 12:13:40 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName20",
+        "family": "lastName20"
+      },
+      "dateOfBirth": "3/13/1999 12:13:40 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ABSCESS (DISORDER)",
+          "translationName": "CELLULITIS AND ABSCESS OF UNSPECIFIED SITES",
+          "enteredDate": "6/8/2002 1:41:23 PM"
+        }
+      ]
+    }
+  ]
+}

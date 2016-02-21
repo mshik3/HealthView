@@ -1,0 +1,48 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/15/2009 12:06:48 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName13",
+        "family": "lastName13"
+      },
+      "dateOfBirth": "11/15/2009 12:06:48 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DISCHARGE FROM NIPPLE (DISORDER)",
+          "translationName": "OTHER SIGNS AND SYMPTOMS IN BREAST",
+          "enteredDate": "10/30/2014 5:46:13 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "POLYCYSTIC OVARIES (DISORDER)",
+          "translationName": "POLYCYSTIC OVARIES",
+          "enteredDate": "7/29/2010 10:49:08 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BREAST LUMP (FINDING)",
+          "translationName": "LUMP OR MASS IN BREAST",
+          "enteredDate": "6/21/2012 10:37:37 AM"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "10/29/1942 6:40:48 AM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName19",
+        "family": "lastName19"
+      },
+      "dateOfBirth": "10/29/1942 6:40:48 AM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "miscellaneous",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "BURNING SENSATION OF VULVA (FINDING)",
+          "translationName": "DISTURBANCE OF SKIN SENSATION",
+          "enteredDate": "9/20/1953 1:54:10 AM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "VASCULAR HEADACHE (DISORDER)",
+          "translationName": "MIGRAINE, UNSPECIFIED WITHOUT MENTION OF INTRACTABLE MIGRAINE WITHOUT MENTION OF STATUS MIGRAINOSUS",
+          "enteredDate": "8/25/1975 7:00:15 AM"
+        }
+      ]
+    }
+  ]
+}

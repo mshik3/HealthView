@@ -1,0 +1,37 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "6/23/1956 3:48:46 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName23",
+        "family": "lastName23"
+      },
+      "dateOfBirth": "6/23/1956 3:48:46 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "STOMACH CRAMPS (FINDING)",
+          "translationName": "ABDOMINAL PAIN UNSPECIFIED SITE",
+          "enteredDate": "9/21/1974 11:32:38 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "POLYCYSTIC OVARIES (DISORDER)",
+          "translationName": "POLYCYSTIC OVARIES",
+          "enteredDate": "3/25/2007 6:41:17 PM"
+        }
+      ]
+    }
+  ]
+}

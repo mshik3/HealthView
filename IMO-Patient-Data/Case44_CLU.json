@@ -1,0 +1,92 @@
+{
+  "clinicalDocument": {
+    "effectiveTime": "11/21/2001 4:38:41 PM",
+    "patientInformation": {
+      "name": {
+        "given": "firstName37",
+        "family": "lastName37"
+      },
+      "dateOfBirth": "11/21/2001 4:38:41 PM",
+      "gender": "male"
+    }
+  },
+  "sections": [
+    {
+      "title": "HISTORY OF PRESENT ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "FINDING OF NOCTURIA (FINDING)",
+          "translationName": "NOCTURIA",
+          "enteredDate": "2/2/2013 4:27:08 AM"
+        }
+      ]
+    },
+    {
+      "title": "HISTORY OF PAST ILLNESS",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "OSTEOARTHRITIS OF KNEE (DISORDER)",
+          "translationName": "OSTEOARTHROSIS UNSPECIFIED WHETHER GENERALIZED OR LOCALIZED INVOLVING LOWER LEG",
+          "enteredDate": "12/2/2010 9:28:55 AM"
+        }
+      ]
+    },
+    {
+      "title": "head eyes ears nose throat",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "UPPER RESPIRATORY INFECTION (DISORDER)",
+          "translationName": "ACUTE UPPER RESPIRATORY INFECTIONS OF UNSPECIFIED SITE",
+          "enteredDate": "10/5/2009 8:37:09 PM"
+        }
+      ]
+    },
+    {
+      "title": "respiratory",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DYSPNEA (FINDING)",
+          "translationName": "SHORTNESS OF BREATH",
+          "enteredDate": "10/5/2009 8:37:09 PM"
+        }
+      ]
+    },
+    {
+      "title": "cardiovascular examination",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "ANGINA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED ANGINA PECTORIS",
+          "enteredDate": "10/5/2009 8:37:09 PM"
+        }
+      ]
+    },
+    {
+      "title": "ASSESSMENT NOTE",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "HYPERLIPIDEMIA (DISORDER)",
+          "translationName": "OTHER AND UNSPECIFIED HYPERLIPIDEMIA",
+          "enteredDate": "12/10/2014 7:39:12 AM"
+        }
+      ]
+    },
+    {
+      "title": "PLAN OF TREATMENT",
+      "entries": [
+        {
+          "type": "Condition",
+          "enteredName": "DIABETES MELLITUS (DISORDER)",
+          "translationName": "DIABETES MELLITUS WITHOUT COMPLICATION TYPE II OR UNSPECIFIED TYPE NOT STATED AS UNCONTROLLED",
+          "enteredDate": "3/13/2011 1:16:25 AM"
+        }
+      ]
+    }
+  ]
+}
